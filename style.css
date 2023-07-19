@@ -278,17 +278,22 @@ button{
 
     body{
         height: auto;
+        padding: 20px;
+        margin-top: 10px;
+
     }
     .container{
         width: 100%;
         height: auto;
         flex-direction: column;
+        border-radius: 0%;
     }
 
     .result-img{
         width: 100%;
         height: auto;
         gap: 20px;
+        border-radius: 0%;
     }
 
     .summary{
